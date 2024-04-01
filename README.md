@@ -5,6 +5,8 @@ Hello!
 
 这里是一展AI的GitHub。
 
+主页网址：https://ai.yi-zhan.top
+
 平台网址：https://chat.yi-zhan.top
 
 APP(客户端)下载：https://vlink.cc/yizhanai
