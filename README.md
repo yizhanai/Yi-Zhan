@@ -5,11 +5,17 @@ Hello!
 
 这里是一展AI的GitHub。
 
+
 主页网址：https://ai.yi-zhan.top
 
-平台网址：https://chat.yi-zhan.top
+一展AI 平台网址：https://chat.yi-zhan.top
+
+一展API 平台网址：https://api.chsdw.top
+
+一展API Pro 平台网址：https://vip.yi-zhan.top
 
 APP(客户端)下载：https://vlink.cc/yizhanai
+
 
 专注科技，分享未来！
 
